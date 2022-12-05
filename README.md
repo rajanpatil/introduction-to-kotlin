@@ -1,4 +1,4 @@
-"Introduction to Kotlin" workshop, 8th December 2022
+"Introduction to Kotlin" workshop, 12th December 2022
 
 ### Pre-requisites
 
