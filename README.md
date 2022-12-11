@@ -1,5 +1,14 @@
 "Introduction to Kotlin" workshop, 12th December 2022
 
+### Contains starter project
+
+- You can fork this repository into your own account, and clone it to make it your own. It includes `mvnw`, so you can just build and run (provided you have Java 11, see later)
+- For the best experience, use the starter with IntelliJ IDEA Community Edition
+
+```shell
+$ ./mvnw clean install
+```
+
 ### Pre-requisites
 
 - The workshop will be available virtually on Zoom
