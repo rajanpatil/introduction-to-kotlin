@@ -1,5 +1,3 @@
-import java.util.stream.Collectors.toList
-
 /*
 Problem statement:
 2022 is almost over, and let's compile all of the events that made it into the history books. 
